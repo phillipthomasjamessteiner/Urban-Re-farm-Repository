@@ -1,2 +1,3 @@
 # Urban-Re-farm-Repository
-School 5/3/16
+
+This repository is for the 19 inch x 19 inch x 2 foot square planter box PDF files
